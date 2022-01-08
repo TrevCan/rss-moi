@@ -2,7 +2,11 @@
 iOS shortcut to fetch RSS feeds from files, select articles to read and open them in a web browser.
 
 # install
+- Make sure you have enabled *untrusted shortcuts*.
+- See the [latest](https//github.com/trevcan/rss-moi/releases) 
+release. Access the icloud link, then click on
 
+https://www.icloud.com/shortcuts/4ced91389cea45738998d5ca9e177d49
 
 ### FAQ
 - how did I export the iOS shortcut to a file ?
