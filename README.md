@@ -21,7 +21,7 @@ or somewhere you can select text. (see [demo](/media/demo.gif)
   - **if you'd like to use the clipboard**, you can edit the shortcut configuration (simply change the `paste` key to `true`. It is located inside the dictionary, below the comments at the top.)
 - you can also retrieve the list of feed URLs from a remote URL (e.g. from a raw gist)
   - to enable this, simply change the `get_from` key in the dictionary to any URl of your choice that
-  hosts your list of URL feeds. *Note that any non-valid RSS feeds might cause the app to break (see [known-issues])*
+  hosts your list of URL feeds. *Note that any non-valid RSS feeds might cause the app to break (see: [known-issues](#known-issues))*
 
 
 ### dependencies
