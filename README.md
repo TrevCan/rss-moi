@@ -11,11 +11,15 @@ release. Access the icloud link, then click on the [icloud](https://www.icloud.c
 link. Open it with the Shortcuts app, scroll down and click on add shortcut.
 
 ## usage
+- you can either:
+	- a) give it a file or a text selection and choose which feeds to view, or
+	- b) launch it from the homescreen and be prompted to type the feeds.
+	- c) automatically use the clipboard.
 - have a list of rss/atom feeds, either in a text file, in your notes,
 or somewhere you can select text. (see [demo](/media/demo.gif)
-- select the list of urls and click on *share*, then select the `RSS-moi` shortcut.
+  - select the list of urls and click on *share*, then select the `RSS-moi` shortcut.
   - you will be asked to select which feeds you want to use.
-- for each feed, you will have to select at least one article to read. After going through all your selected feeds, the URLs should open in Safari.
+- **for each feed, you will have to select at least one article to read. After going through all your selected feeds, the URLs open in Safari.**
 - You can also run the shortcut with no entry info, meaning you can invoke it [from your home screen](https://support.apple.com/guide/shortcuts/add-a-shortcut-to-the-home-screen-apd735880972/ios).
   - if you do this, you will be prompted to write the URLs, you can paste links of course.
   - **if you'd like to use the clipboard**, you can edit the shortcut configuration (simply change the `paste` key to `true`. It is located inside the dictionary, below the comments at the top.)
