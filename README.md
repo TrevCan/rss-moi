@@ -3,6 +3,13 @@ iOS shortcut to fetch RSS feeds from files, select articles to read and open the
 
 *[view](/media/demo.gif) in action!*
 
+# features
+- works with almost any URLs you can share!
+- can fetch feeds form remote url.
+- can automatically copy from clipboard.
+- set default feed.
+- choose which articles to read and open them.
+
 # install
 - Make sure you have enabled the *untrusted shortcuts* option in `Settings -> Shortcuts`.
 - Make sure to have the [dependencies](#dependencies) installed.
