@@ -43,3 +43,8 @@ or somewhere you can select text. (see [demo](/media/demo.gif)
 ### known issues
 - you have to select- *at least* - for each feed, **one article.**
 - any urls that are not RSS links can break the Shortcut.
+
+
+
+# license
+Licensed under the MIT License. see the [license](/LICENSE) file.
