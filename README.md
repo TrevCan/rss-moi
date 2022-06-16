@@ -13,7 +13,7 @@ iOS shortcut to fetch RSS feeds from files, select articles to read and open the
 # install
 - Make sure you have enabled the *untrusted shortcuts* option in `Settings -> Shortcuts`.
 - Make sure to have the [dependencies](#dependencies) installed.
-- See the [latest](https//github.com/trevcan/rss-moi/releases) 
+- See the [latest](https://github.com/trevcan/rss-moi/releases) 
 release. Access the icloud link, then click on the [icloud](https://www.icloud.com/shortcuts/4ced91389cea45738998d5ca9e177d49)
 link. Open it with the Shortcuts app, scroll down and click on add shortcut.
 
